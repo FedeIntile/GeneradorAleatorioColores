@@ -7,7 +7,7 @@
 body{
     height: 100vh;
     background-color: #2b807b;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .centrar-flex{
